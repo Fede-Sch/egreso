@@ -207,7 +207,6 @@
             "@yannickgerez",
             "@gerez_yannick",
             "@tomi_correa03",
-            "@𝐓𝐨𝐦𝐚𝐬",
             "@michaortiz22",
             "@micha",
             "@anaa_calderon1",

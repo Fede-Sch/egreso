@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -78,7 +77,7 @@
             overflow: hidden;
         }
         .logo::after {
-            content: '🎉';
+            content: 'logoclaraz.png';
             font-size: 3em;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
@@ -186,8 +185,8 @@
 </head>
 <body>
     <div class="container">
-        <div class="logoclaraz.png"></div>
-        <h1 class="title">Sorteo Egreso Claraz</h1>
+        <div class="logo"></div>
+        <h1 class="title">SORTEO EGREO CLARAZ</h1>
         
         <button id="performRaffle">Realizar Sorteo</button>
         

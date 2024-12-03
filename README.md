@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -165,7 +165,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="logoclaraz.png">
+        <div class="logo">
             <img src="/api/placeholder/100/100" alt="Logoclaraz.png">
         </div>
         <h1>🎉 Sorteo Egreso Claraz 🎉</h1>
@@ -207,6 +207,7 @@
             "@yannickgerez",
             "@gerez_yannick",
             "@tomi_correa03",
+            "@𝐓𝐨𝐦𝐚𝐬",
             "@michaortiz22",
             "@micha",
             "@anaa_calderon1",

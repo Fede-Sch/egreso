@@ -166,7 +166,7 @@
 <body>
     <div class="container">
         <div class="logoclaraz.png">
-            <img src="logoclaraz.png" alt="Logoclaraz.png">
+            <img src="/api/placeholder/100/100" alt="Logoclaraz.png">
         </div>
         <h1>🎉 Sorteo Egreso Claraz 🎉</h1>
         

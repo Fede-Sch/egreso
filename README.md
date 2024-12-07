@@ -1,3 +1,4 @@
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -90,6 +91,7 @@
             position: relative;
             overflow: hidden;
             perspective: 1000px;
+            min-width: 250px;
         }
         .winner-card::before {
             content: '';
@@ -172,22 +174,38 @@
         
         <button id="performRaffle">Realizar Sorteo</button>
         
-        <div id="participantsCount">Participantes: 10</div>
+        <div id="participantsCount">Participantes: 26</div>
         <div id="winnersList"></div>
     </div>
 
     <script>
         const participants = [
-            "Lucia Fernandez",
-            "Martin Rodriguez",
-            "Valentina Gomez", 
-            "Santiago Lopez",
-            "Martina Perez",
-            "Nicolas Garcia",
-            "Camila Torres",
-            "Joaquin Ramirez",
-            "Antonella Mendez",
-            "Mateo Alvarez"
+            "@meliisantillan20",
+            "@_soljuanenea_",
+            "@negrohermida_08",
+            "@jeree_orcaj",
+            "@cande.j24",
+            "@rusito_bardel_08",
+            "@marianela.ibarra.188",
+            "@delfi.ok234",
+            "@camiituarte",
+            "@maguisuarez_",
+            "@brisaapintoss__",
+            "@xioma_pallero",
+            "@leo_larrosaa",
+            "@federico_sch_",
+            "@_miliaineseder_",
+            "@rama_paglione03",
+            "@carlitos_correa03",
+            "@_miaa.alaniz__",
+            "@liilusochi_",
+            "@fiammabasse",
+            "@morenapinuer",
+            "@sofi_allende_",
+            "@mia_acosta_ok",
+            "@almaa.111_",
+            "@_juanaibenez",
+            "@soll_orcajo"
         ];
 
         const performRaffleBtn = document.getElementById('performRaffle');
